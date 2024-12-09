@@ -1,0 +1,180 @@
+{
+    "notifications": [
+        {
+            "name": "nesuixd", 
+            "profilePic": "https://avatar.iran.liara.run/public/boy", 
+            "content": " liked your video. ", 
+            "postImage": "https://i.pinimg.com/474x/2a/e9/9f/2ae99ff4e9f339431f3eeab1e0fabb96.jpg", 
+            "timeAgo": "20s", 
+            "hasStory" : false
+        },
+        {
+            "name":  "m.t.arrofi", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "1m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "digitalenvision", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/736x/4b/1c/da/4b1cda8094a8d9c82160178f60f1083e.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "leah.stevens", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/474x/67/cb/9e/67cb9ecb0932ba0ec5aed28775515262.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "thiago_barr1", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://i.pinimg.com/474x/67/cb/9e/67cb9ecb0932ba0ec5aed28775515262.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "devon", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/236x/57/1b/55/571b5565b966bca1c6cc5dfcbe0a8c33.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "jesse", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "rodrigo.hawkins", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "lucy.walker", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "arnob.mukherjee", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "lourdes", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "nesuixd", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://i.pinimg.com/474x/6a/58/1c/6a581c59838486ddcb021a43fc503ccf.jpg", 
+            "timeAgo":  "20s", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "m.t.arrofi", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "1m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "digitalenvision", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/474x/55/a6/9c/55a69ced7ee2509e7fcb0a6cbd7a4efd.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "leah.stevens", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/474x/55/a6/9c/55a69ced7ee2509e7fcb0a6cbd7a4efd.jpg",
+            "timeAgo":  "1m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "thiago_barr1", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your video. ", 
+            "postImage":  "https://i.pinimg.com/474x/55/a6/9c/55a69ced7ee2509e7fcb0a6cbd7a4efd.jpg", 
+            "timeAgo":  "2m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "devon", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " liked your post. ", 
+            "postImage":  "https://i.pinimg.com/474x/55/a6/9c/55a69ced7ee2509e7fcb0a6cbd7a4efd.jpg",
+            "timeAgo":  "3m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "jesse", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "rodrigo.hawkins", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "3m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "lucy.walker", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :   true
+        },
+        {
+            "name":  "arnob.mukherjee", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        },
+        {
+            "name":  "lourdes", 
+            "profilePic":  "https://avatar.iran.liara.run/public/boy", 
+            "content":  " started following you. ", 
+            "postImage":  "",
+            "timeAgo":  "4m", 
+            "hasStory" :  false
+        }
+    ]    
+}

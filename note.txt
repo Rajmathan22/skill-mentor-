@@ -1,0 +1,2 @@
+
+update the new_post feed with validation
